@@ -24,7 +24,7 @@
 
 ![profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WWolf-dev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Primordial-Devv&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <div align="center">
         <img alt="Github STats" src="https://github-readme-stats.vercel.app/api?username=WWolf-dev&show_icons=true&theme=radical">
