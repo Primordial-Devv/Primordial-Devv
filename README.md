@@ -27,8 +27,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Primordial-Devv&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <div align="center">
-        <img alt="Github STats" src="https://github-readme-stats.vercel.app/api?username=WWolf-dev&show_icons=true&theme=radical">
-        <img alt="Most Use Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WWolf-dev&layout=donut">
+        <img alt="Github STats" src="https://github-readme-stats.vercel.app/api?username=Primordial-Devv&show_icons=true&theme=radical">
+        <img alt="Most Use Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primordial-Devv&layout=donut">
 </div>
 <div align="center">
         <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Primordial_devv">
